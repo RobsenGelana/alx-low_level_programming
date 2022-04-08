@@ -14,7 +14,7 @@ case 'q':
 break;
 case 'e':
 break;
-default;
+default:
 putchar(lower_case);
 }
 putchar('\n');

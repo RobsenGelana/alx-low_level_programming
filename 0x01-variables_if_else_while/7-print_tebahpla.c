@@ -13,6 +13,8 @@ for (lower_case = 122; lower_case >= 97; lower_case--)
 {
 putchar(lower_case);
 }
+
 putchar('\n');
+
 return (0);
 }

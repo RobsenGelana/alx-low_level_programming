@@ -5,7 +5,7 @@
 /**
  *main - Entry point
  *My first logial programm
- *Return: return 0 after program executaion
+ *Return: Always 0 after program executaion
  */
 /* betty style doc for function main goes there */
 int main(void)

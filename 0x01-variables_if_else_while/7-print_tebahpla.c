@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
  *main - Entry point
-
- *Return: Always 0 after program executaion
+ *Return: Always 0 after code execute
  */
 
 int main(void)
@@ -17,6 +16,5 @@ putchar(lower_case);
 putchar('\n');
 
 return (0);
-
 
 }

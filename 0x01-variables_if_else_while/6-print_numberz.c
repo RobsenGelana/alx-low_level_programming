@@ -7,10 +7,10 @@
 
 int main(void)
 {
-int i;
-for (i = 0; i < 10; i++)
+int single_digit;
+for (single_digit = 0; single_digit < 10; single_digit++)
 {
-putchar(i);
+putchar(single_digit);
 }
 putchar('\n');
 return (0);

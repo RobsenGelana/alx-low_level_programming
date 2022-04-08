@@ -10,9 +10,9 @@ char lower_case;
 
 switch (lower_case)
 {
-case q:
+case 'q':
 break;
-case e:
+case 'e':
 break;
 default;
 putchar(lower_case);

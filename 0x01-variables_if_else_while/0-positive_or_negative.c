@@ -2,7 +2,11 @@
 #include <stdio.h>
 #include <time.h>
 /* more headers goes there */
-/* This code should return positive or negative number */
+/**
+ *main - Entry point
+ *My first logial programm
+ *Return: return 0 after program executaion
+ */
 /* betty style doc for function main goes there */
 int main(void)
 {

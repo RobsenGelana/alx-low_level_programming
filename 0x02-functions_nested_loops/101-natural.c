@@ -17,7 +17,7 @@ if (num % 3 == 0)
 sum += num;
 }
 
-_putchar(num);
+printf(num);
 }
 return 0;
 

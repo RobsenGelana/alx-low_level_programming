@@ -1,13 +1,14 @@
+#include <stdio.h>
 #include "main.h"
+
 /**
  * main - Entry point
  *Return: Always return 0 after code execute
  */
 
 void print_alphabet(void);
-int main(void)
 {	
-int n;
+char n;
 
 for (n = 'a'; n <= 'z'; n++)
 {

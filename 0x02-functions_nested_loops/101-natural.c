@@ -21,7 +21,7 @@ if (num % 3 == 0)
 sum += num;
 }
 
-printf("%d ", num);
+_putchar(num);
 }
 return 0;
 

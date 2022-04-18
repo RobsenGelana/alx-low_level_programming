@@ -6,7 +6,7 @@
  return - 0 after code execute
  */
 
-void _puts(char *str);
+void _puts(char *str)
 {
 char *a;
 int b;

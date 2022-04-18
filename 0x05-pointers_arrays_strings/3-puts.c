@@ -1,10 +1,12 @@
 #include <stdio.h>
 #include "main.h"
-
 /**
- main - Entry point
- return - 0 after code execute
- */
+*_puts - prints a string
+*@str: A pointer to an int that will be changed
+*
+*Return: void which means our answer is correct
+*/
+
 
 void _puts(char *str)
 {

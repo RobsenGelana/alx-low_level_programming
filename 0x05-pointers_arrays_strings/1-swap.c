@@ -1,18 +1,17 @@
-
-#include <stdio.h>
-#include "main.h>
+#include "main.h"
 
 /**
- *main - Entry point
- *Return: Alwasy 0 after code execute
+ * swap_int - swap the valuses of two integers a and b
+ *@a: A pointer to an int that will be updated
+ *@b: B pointer to an int that will be updated
+ * Return: void that means our answer is correct
  */
 
-void swap_int(int *a, int *b);
+void swap_int(int *a, int *b)
 {
+int f;
 
-int c;
-
-c = *a;
+f = *a;
 *a = *b;
-*b = c;
+*b = f;
 }

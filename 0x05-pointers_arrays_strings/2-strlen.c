@@ -6,7 +6,7 @@
  *return: always after code execute
  */
 
-int _strlen(char *s);
+int _strlen(char *s)
 {
 
 int l;

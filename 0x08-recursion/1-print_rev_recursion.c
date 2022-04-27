@@ -9,10 +9,10 @@
 void _print_rev_recursion(char *s)
 {
 
-if (*s)//Pointing it to the pointer
+if (*s)/*Pointing it to the pointer*/
 {
-_print_rev_recursion(s + 1);//If the condition is true add 1 
-_putchar(*s);//then print *s
+_print_rev_recursion(s + 1);/*If the condition is true add 1 */
+_putchar(*s);/*then print *s*/
 }
 }
 

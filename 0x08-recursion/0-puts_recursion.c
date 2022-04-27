@@ -2,6 +2,7 @@
 
 /*
  * main - Entry point
+ * _puts_recursion - returns a string
  * simply return the code
  * this block of code return a string with a new line
  */
